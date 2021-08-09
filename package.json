@@ -1,0 +1,24 @@
+{
+  "name": "python-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypt0box/python-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crypt0box/python-scraping/issues"
+  },
+  "homepage": "https://github.com/crypt0box/python-scraping#readme",
+  "dependencies": {
+    "firebase-admin": "^9.11.0",
+    "firestore-export-import": "^0.16.0"
+  }
+}
